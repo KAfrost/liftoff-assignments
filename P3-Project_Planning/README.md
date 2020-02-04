@@ -16,3 +16,6 @@ https://trello.com/b/6TGIwOgR/trp-management-tools
 ### Project Repo Link
 
 https://github.com/KAfrost/TRPTools
+
+- changed up project repository 
+https://github.com/KAfrost/TinyRobotsTools
